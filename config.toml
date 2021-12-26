@@ -1,7 +1,7 @@
-baseURL = "https://www.glossary.dev"
+baseURL = "https://webdev-glossary.vercel.app"
 languageCode = "en-us"
 title = "Developer Glossary"
-copyright = "MIT License, <a href='https://github.com/do-community/developer-glossary'>Contribute on GitHub</a>"
+copyright = "MIT License, <a href='https://github.com/uvacoder/webdev-glossary'>Contribute on GitHub</a>"
 
 disableKinds = ["taxonomy", "term"]
 
